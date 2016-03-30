@@ -1,0 +1,8 @@
+---
+title: "Twitter Data"
+type: "challenge"
+visibility: "onsite"
+depends: "rock-paper-scissors"
+description: "Write multiple methods to parse a compound data structure to return values needed"
+ignore:
+- "twitter-data.md"
